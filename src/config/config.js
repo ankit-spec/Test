@@ -1,0 +1,1 @@
+export const ROOT_API='http://shibe.online/api/shibes'
